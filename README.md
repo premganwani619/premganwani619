@@ -15,6 +15,10 @@
  &nbsp;
 </p>
 <h3 align="left">Connect with me:</h3>
+- 👨‍💻 All of my projects are available at [github.com](github.com/premganwani619)
+
+- 📄 Know about my experiences [github.com](github.com/premganwani619/portfolio)
+
 <p align="left">
 <a href="https://www.linkedin.com/in/prem-ganwani/" target="blank"><img margin="50" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prem" height="30" width="40" /></a>
 <a href="https://instagram.com/prem_.says_" target="blank"><img margin="50" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prem" height="30" width="40" /></a>
